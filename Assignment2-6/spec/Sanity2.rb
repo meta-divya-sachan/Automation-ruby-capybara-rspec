@@ -1,0 +1,1 @@
+puts "this is sanity2 file"
